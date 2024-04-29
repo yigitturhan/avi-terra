@@ -1,0 +1,72 @@
+{
+  "table": {
+    "width": 200,
+    "height": 100,
+    "deacceleration": 0
+  },
+  "ball": {
+    "radius": 5
+  },
+  "balls": [
+    {
+      "position": {
+        "x": 20,
+        "y": 20
+      },
+      "velocity": {
+        "x": -38,
+        "y": -48
+      }
+    },
+    {
+      "position": {
+        "x": 60,
+        "y": 60
+      },
+      "velocity": {
+        "x": 40,
+        "y": 34
+      }
+    },
+    {
+      "position": {
+        "x": 6,
+        "y": 6
+      },
+      "velocity": {
+        "x": -32,
+        "y": 35
+      }
+    },
+    {
+      "position": {
+        "x": 43,
+        "y": 2
+      },
+      "velocity": {
+        "x": 35,
+        "y": -37
+      }
+    },
+    {
+      "position": {
+        "x": 78,
+        "y": 78
+      },
+      "velocity": {
+        "x": 32,
+        "y": -20
+      }
+    },
+    {
+      "position": {
+        "x": 10,
+        "y": 92
+      },
+      "velocity": {
+        "x": 32,
+        "y": -40
+      }
+    }
+  ]
+}
