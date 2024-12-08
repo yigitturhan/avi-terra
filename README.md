@@ -1,0 +1,1 @@
+A pool simulation where the locations and velocities of balls are read from a json file then simulates the action on the table. I have done this project as a requirement to do internship at AVI-TERRA.
